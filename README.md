@@ -13,11 +13,15 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
   </a> 
   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://aidanfinn.com/wp-content/uploads/2024/02/OCI-1024x230.png" width="125" height="50" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdi3I0BALSHxH7dkEWEvzVNUGec7rTcAbpAiq8_7aVjsP89gFVZwbPb94Sl7iHnfMZKmI&usqp=CAU" height="75" />
   </a>
   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://www.conseil3d.com/wp-content/uploads/2021/06/logo-microsoft-cloud-azure-png.png" height="75" />
+    <img src="https://images.ctfassets.net/o7xu9whrs0u9/5eHMQc5ZM7NmSLC12hPfIq/109236de10f4a2c712ac27c102b84f0a/Microsoft_Azure_Logo-new.svg" height="75" />
+  </a>
+
+  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
+    <img src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png" height="75" />
   </a>
  </p>
 
