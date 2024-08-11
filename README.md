@@ -24,7 +24,7 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
 
 
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMD4GIuaFTF1Lh_LrTbstekBprzITTnGnNzg&usqp=CAU" height="105" />
+    <img src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMDBjY2RjOTktMTE3ZS00YWRkLWJhMzgtODdmZmRjYmEwN2NmL2Nsb3VkLWxvZ28ucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYwMCwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjB9fX19" height="105" />
   </a>
  </p>
 
