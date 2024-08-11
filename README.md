@@ -10,10 +10,13 @@ I mostly work with Cloud based technologies. 🚀
 ### Cloud Platforms
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+    <img src="[https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)"  height="75" />
   </a> 
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://aidanfinn.com/wp-content/uploads/2024/02/OCI-1024x230.png" width="125" height="50" />
+  </a>
+  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
+    <img src="![image](https://github.com/user-attachments/assets/821d41f0-21f9-430a-9df4-d2ed25a69f2e)" width="125" height="50" />
   </a>
  </p>
 
