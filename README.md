@@ -13,8 +13,7 @@ I mostly work with Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a> 
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="![image](https://github.com/user-attachments/assets/02c17619-2b12-42bd-97ca-f68b209c5adf)
-"  height="75" />
+    <img src="![image](https://github.com/user-attachments/assets/8e3b1510-ce33-4216-917c-02106735e3f1)"  height="75" />
   </a>
  </p>
 
