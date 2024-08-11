@@ -12,7 +12,7 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  height="75" />
   </a>   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMDBjY2RjOTktMTE3ZS00YWRkLWJhMzgtODdmZmRjYmEwN2NmL2Nsb3VkLWxvZ28ucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYwMCwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjB9fX19" />
+    <img src="https://w7.pngwing.com/pngs/569/340/png-transparent-google-cloud-platform-cloud-computing-cloud-storage-google-storage-cloud-security-text-logo-cloud-computing.png" />
   </a>
  <br>
  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
