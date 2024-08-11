@@ -10,8 +10,7 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  height="75" />
-  </a> 
- <hr>
+  </a>   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMDBjY2RjOTktMTE3ZS00YWRkLWJhMzgtODdmZmRjYmEwN2NmL2Nsb3VkLWxvZ28ucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYwMCwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjB9fX19" height="155" />
   </a>
