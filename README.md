@@ -13,7 +13,7 @@ I mostly work with Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/oracle-cloud-infrastructure-logo.png"  height="75" />
+    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/oracle-cloud-infrastructure-logo.png"  height="75" length="120" />
   </a>
  </p>
 
