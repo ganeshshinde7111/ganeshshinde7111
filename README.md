@@ -9,7 +9,7 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
 ### Cloud Platforms
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  height="45" padding: "5px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  height="45" padding: "50px" />
   </a>
   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
