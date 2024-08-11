@@ -10,7 +10,9 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  height="75" />
-  </a>   
+  </a>  
+
+  
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://www.mitsubishielectric.com/fa/sols/psm/asean/en/055/img/products_01.png"  height="75" />
   </a>
@@ -22,8 +24,10 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://www.pngitem.com/pimgs/m/178-1789051_oracle-cloud-infrastructure-logo-hd-png-download.png"  height="90" />
   </a>
-
  </p>
+
+
+
 
 
 <p float="left">
