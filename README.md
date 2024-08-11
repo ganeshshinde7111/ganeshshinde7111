@@ -13,7 +13,7 @@ I mostly work with Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a> 
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://aidanfinn.com/wp-content/uploads/2024/02/OCI-1024x230.png" width="250" height="75" />
+    <img src="https://aidanfinn.com/wp-content/uploads/2024/02/OCI-1024x230.png" width="125" height="50" />
   </a>
  </p>
 
