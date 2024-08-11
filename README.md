@@ -13,16 +13,17 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
   </a> 
 
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://www.pngitem.com/pimgs/m/178-1789051_oracle-cloud-infrastructure-logo-hd-png-download.png"  height="90" />
+    <img src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMDBjY2RjOTktMTE3ZS00YWRkLWJhMzgtODdmZmRjYmEwN2NmL2Nsb3VkLWxvZ28ucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYwMCwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjB9fX19" height="165" />
   </a>
 
  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://images.ctfassets.net/o7xu9whrs0u9/5eHMQc5ZM7NmSLC12hPfIq/109236de10f4a2c712ac27c102b84f0a/Microsoft_Azure_Logo-new.svg" height="75" />
   </a>
 
-  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvMDBjY2RjOTktMTE3ZS00YWRkLWJhMzgtODdmZmRjYmEwN2NmL2Nsb3VkLWxvZ28ucG5nIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJ3ZWJwIiwicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYwMCwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjB9fX19" height="165" />
+ <a href="https://www.oracle.com/in/cloud/" target="_blank" >
+    <img src="https://www.pngitem.com/pimgs/m/178-1789051_oracle-cloud-infrastructure-logo-hd-png-download.png"  height="90" />
   </a>
+
  </p>
 
 
