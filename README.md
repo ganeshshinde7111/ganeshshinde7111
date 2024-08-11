@@ -7,6 +7,15 @@
 I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 3+ years of professional working experience. 🎯
 
 I mostly work with Cloud based technologies. 🚀
+### Cloud Platforms
+ <p float="left">
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/oracle-cloud-infrastructure-logo.png"  height="75" />
+  </a>
+ </p>
 
 
 <p float="left">
