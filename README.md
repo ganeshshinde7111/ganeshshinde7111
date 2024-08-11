@@ -13,7 +13,7 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
   </a> 
   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://www.pngitem.com/pimgs/m/178-1789051_oracle-cloud-infrastructure-logo-hd-png-download.png"  height="75" />
+    <img src="https://www.pngitem.com/pimgs/m/178-1789051_oracle-cloud-infrastructure-logo-hd-png-download.png"  height="85" />
   </a>
   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
