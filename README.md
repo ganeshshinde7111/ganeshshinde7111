@@ -11,7 +11,7 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  height="75" />
   </a>  
-
+style=”margin: 1px 1px 1px 1px;
   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://www.mitsubishielectric.com/fa/sols/psm/asean/en/055/img/products_01.png"  height="75" />
