@@ -11,14 +11,17 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  height="75" />
   </a> 
+
+    
+  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
+    <img src="https://images.ctfassets.net/o7xu9whrs0u9/5eHMQc5ZM7NmSLC12hPfIq/109236de10f4a2c712ac27c102b84f0a/Microsoft_Azure_Logo-new.svg" height="75" />
+  </a>
+
   
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://www.pngitem.com/pimgs/m/178-1789051_oracle-cloud-infrastructure-logo-hd-png-download.png"  height="90" />
   </a>
-  
-  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
-    <img src="https://images.ctfassets.net/o7xu9whrs0u9/5eHMQc5ZM7NmSLC12hPfIq/109236de10f4a2c712ac27c102b84f0a/Microsoft_Azure_Logo-new.svg" height="75" />
-  </a>
+
 
   <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMD4GIuaFTF1Lh_LrTbstekBprzITTnGnNzg&usqp=CAU" height="105" />
