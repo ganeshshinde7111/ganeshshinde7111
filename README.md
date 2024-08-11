@@ -12,7 +12,7 @@ I am [Ganesh](https://www.linkedin.com/in/ganesh-shinde-445701119/), a Cloud and
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"  height="75" />
   </a> 
 
-     <a href="https://www.oracle.com/in/cloud/" target="_blank" >
+  <a href="https://www.oracle.com/in/cloud/" target="_blank" >
     <img src="https://www.pngitem.com/pimgs/m/178-1789051_oracle-cloud-infrastructure-logo-hd-png-download.png"  height="90" />
   </a>
 
